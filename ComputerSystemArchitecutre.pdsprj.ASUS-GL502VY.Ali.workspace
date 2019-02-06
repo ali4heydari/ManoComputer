@@ -3,6 +3,7 @@
  <FRAME activewindow="0">
   <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffffb20000000c000000ce060000fa030000</PLACEMENT>
   <WINDOW type="default" module="ISIS"/>
+  <WINDOW type="default" module="PROJNOTES"/>
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI>
@@ -31,7 +32,7 @@
      <ITEM name="nItems">0</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="16" x="48" flags="0000000a" y="160" h="16" pid="1" iid="349">
+   <POPUP w="16" x="88" flags="0000000a" y="200" h="16" pid="1" iid="349">
     <PROPERTIES>
      <ITEM name="DataType">2</ITEM>
      <ITEM name="DispChars">Yes</ITEM>
@@ -41,7 +42,7 @@
      <ITEM name="TopLineAddress">00000000</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="16" x="68" flags="0000000a" y="180" h="16" pid="1" iid="355">
+   <POPUP w="16" x="108" flags="0000000a" y="220" h="16" pid="1" iid="355">
     <PROPERTIES>
      <ITEM name="DataType">2</ITEM>
      <ITEM name="DispChars">Yes</ITEM>
